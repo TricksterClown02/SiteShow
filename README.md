@@ -36,14 +36,14 @@ sudo apt install build-essential python3-dev -y
 
 **Author:** TricksterClown02
 
+```bash
 pip3 install requests beautifulsoup4 urllib3 lxml
-#if doed not work the try 
 
+#if doed not work the try
 pip3 install requests beautifulsoup4 urllib3 lxml --break-system-packages
 
 **Run the scanner:**
 
-```bash
 python site_show.py
 ```
 
